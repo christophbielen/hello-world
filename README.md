@@ -1,3 +1,3 @@
 # hello-world
-My first project /n
+My first project;
 Just learning github
